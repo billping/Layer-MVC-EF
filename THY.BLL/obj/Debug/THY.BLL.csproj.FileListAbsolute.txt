@@ -3,3 +3,8 @@ E:\c#\THY.UI\THY.BLL\bin\Debug\THY.BLL.pdb
 E:\c#\THY.UI\THY.BLL\obj\Debug\THY.BLL.csprojResolveAssemblyReference.cache
 E:\c#\THY.UI\THY.BLL\obj\Debug\THY.BLL.dll
 E:\c#\THY.UI\THY.BLL\obj\Debug\THY.BLL.pdb
+D:\c#\Layer-MVC-EF\THY.BLL\bin\Debug\THY.BLL.dll
+D:\c#\Layer-MVC-EF\THY.BLL\bin\Debug\THY.BLL.pdb
+D:\c#\Layer-MVC-EF\THY.BLL\obj\Debug\THY.BLL.csprojResolveAssemblyReference.cache
+D:\c#\Layer-MVC-EF\THY.BLL\obj\Debug\THY.BLL.dll
+D:\c#\Layer-MVC-EF\THY.BLL\obj\Debug\THY.BLL.pdb
